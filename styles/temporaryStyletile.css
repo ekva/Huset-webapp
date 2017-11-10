@@ -50,5 +50,5 @@ box-shadow: 3px 3px 50px 0px rgba(0,0,0,0.06); margin: 1em 0; padding: 0.5em;}
 box-shadow: 3px 3px 50px 0px rgba(0,0,0,0.15); margin: 1em 0; padding: 0.5em;}
 
 /* change this to change social icon possible and hover color i.e. 'var(--txtColor)','var(--highlight)'*/
-.socialIcon{color: var(--highlight);}
+.socialIcon{color: var(--txtColor);}
 .socialIcon:hover{color: var(--highlight2);}
